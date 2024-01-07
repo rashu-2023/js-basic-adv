@@ -5,3 +5,12 @@
 // Reference Type (Non Primitive) (call by reference)
 
 // Array, Objects, Functions
+
+
+// *******************************
+
+// Memory :
+
+// Stack Memory(Primitive Data types)
+// Heap Memory (Non-Primitive Data types)
+
